@@ -1,6 +1,11 @@
-//change this method into 2 method return individually name and lastName
-public static String fullName(String fullName){
-        return fullName; 
+// a method to call name
+public static String name(String name){
+        return name; 
+}
+
+// a method to call lastName
+public static String lastName(String lastName){
+        return lastName; 
 }
 
 
