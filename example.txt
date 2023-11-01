@@ -1,1 +1,6 @@
-This is a statement to show that something exists in this file.
+ public void method1(){
+
+	for(int i=0; i<=10; i++){
+		System.out.println("I: " + i); 
+	}
+}
